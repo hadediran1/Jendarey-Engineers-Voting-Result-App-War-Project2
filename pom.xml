@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>17</java.version>
-        <sonar.host.url>http://34.204.7.100:9000/</sonar.host.url>
+        <sonar.host.url>http://3.85.166.12:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>admin123</sonar.password>
     </properties>
